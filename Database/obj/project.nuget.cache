@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ORfDHidrvOROgFjprcE9Gr+xvfHCMKJ0BBhg380XmkmygR5BDGk907bYaqHhV2wp9x9xI5MpovDaY28pRdP9YQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\ANDRE\\CarRentalApplication\\Database\\Database.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANDRE\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\ANDRE\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512",
+    "C:\\Users\\ANDRE\\.nuget\\packages\\microsoft.sqlserver.dacpacs.azure.master\\160.0.0\\microsoft.sqlserver.dacpacs.azure.master.160.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

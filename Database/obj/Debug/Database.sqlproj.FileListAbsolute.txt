@@ -1,0 +1,12 @@
+c:\Users\ANDRE\CarRentalApplication\Database\bin\Debug\Database.dacpac
+c:\Users\ANDRE\CarRentalApplication\Database\bin\Debug\Database.dll
+c:\Users\ANDRE\CarRentalApplication\Database\bin\Debug\Database.pdb
+c:\Users\ANDRE\CarRentalApplication\Database\bin\Debug\master.dacpac
+c:\Users\ANDRE\CarRentalApplication\Database\obj\Debug\Database.sqlproj.AssemblyReference.cache
+c:\Users\ANDRE\CarRentalApplication\Database\obj\Debug\Model.xml
+c:\Users\ANDRE\CarRentalApplication\Database\obj\Debug\refactor.xml
+c:\Users\ANDRE\CarRentalApplication\Database\obj\Debug\postdeploy.sql
+c:\Users\ANDRE\CarRentalApplication\Database\obj\Debug\predeploy.sql
+c:\Users\ANDRE\CarRentalApplication\Database\obj\Debug\Database.sqlproj.CopyComplete
+c:\Users\ANDRE\CarRentalApplication\Database\obj\Debug\Database.dll
+c:\Users\ANDRE\CarRentalApplication\Database\obj\Debug\Database.pdb

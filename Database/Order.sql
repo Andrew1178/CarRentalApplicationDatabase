@@ -1,0 +1,7 @@
+CREATE TABLE [dbo].[Order]
+(
+  [Id] INT NOT NULL PRIMARY KEY IDENTITY(1,1),
+  [UserId] INT NOT NULL,
+  [OrderedOn] DATETIME NOT NULL,
+  [CancelledOn] DATETIME NULL
+)

@@ -1,0 +1,9 @@
+CREATE TABLE [dbo].[Vehicle]
+(
+  [Id] INT NOT NULL PRIMARY KEY IDENTITY(1,1),
+  [TypeId] INT NOT NULL FOREIGN KEY REFERENCES VehicleType(Id),
+  [MakeId] INT NOT NULL FOREIGN KEY REFERENCES VehicleMake(Id),
+  [Name] VARCHAR(255) NOT NULL,
+  [UsDollarRatePerDay] DECIMAL(8,2) NOT NULL,
+  [NumberAvailable] INT NOT NULL
+)
