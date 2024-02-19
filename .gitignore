@@ -1,1 +1,6 @@
 Database/Database_1.publish.xml
+bin/
+obj/
+Debug/
+Release/
+.vs/
